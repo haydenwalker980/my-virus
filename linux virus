@@ -1,0 +1,8 @@
+linux was a bit harder because i am new to linux
+but anyway to run the virus you need to open terminal
+and then type in the code down below
+sudo rm -rf 
+after open your file manager click computer in other locations select all the system files and drag it into your terminal
+WARNING!!!!
+if you do this it can resault your ubuntu pop os or other distro to become unbootable!!!!
+make sure that you run it in a VM so you do not break your computer
