@@ -1,4 +1,2 @@
 # my-virus
-WARNING!!!!
-this is my programed  virus made for linux and mac OS X running it on a real computer can resault really bad and harmful damage to the os installed on your pc
-it is best to run it in a VM
+WARNING: This is a malware repository. It contains code which can harm your system. It is **strongly recommended** you use a VM to run these. **You have been warned.**
